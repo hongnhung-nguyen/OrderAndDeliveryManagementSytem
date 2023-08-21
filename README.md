@@ -1,4 +1,4 @@
-# HeThongQuanLyBanHang_GiaoHang
+# Order and Delivery System
 Đồ án hệ quản trị CSDL 2022-2023
 + Thiết kế, quản lý dữ liệu ( SQL Server )
 + Quản trị, phân hệ người dùng 
